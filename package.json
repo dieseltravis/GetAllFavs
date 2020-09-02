@@ -10,7 +10,7 @@
   "dependencies": {
     "express": "^4.15.2",
     "twitter": "^1.7.0",
-    "googleapis": "^19.0.0",
+    "googleapis": "^59.0.0",
     "google-auth-library": "^0.10.0"
   },
   "engines": {
